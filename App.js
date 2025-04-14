@@ -15,8 +15,8 @@ import {
   RecipeName,
 } from "./components/RecipeComponent";
 
-const APP_ID = "c9ce6bc3";
-const APP_KEY = "53ddd5dcf25986e27432b076f71a548a";
+const APP_ID = "------"; // update your api credentials here
+const APP_KEY = "------"; // update your api credentials here
 
 const Container = styled.div`
   display: flex;
